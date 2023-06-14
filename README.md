@@ -6,4 +6,4 @@
 ![lmstive github stats](https://github-readme-stats.vercel.app/api?username=lmstive&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lmstive&theme=radical&hide=PlpgSQL,jupyter%20notebook,html)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lmstive&layout=compact&langs_count=16&theme=tokyonight))
