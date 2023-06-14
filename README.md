@@ -2,7 +2,6 @@
 ### 
 <p>   <img src="http://views.whatilearened.today/views/github/lmstive/views.svg"/> 
 
-![lmstive github stats](https://github-readme-stats.vercel.app/api?username=lmstive&show_icons=true&theme=radical)
 
 
 
