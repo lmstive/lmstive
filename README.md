@@ -2,8 +2,11 @@
 ### 
 <p>   <img src="http://views.whatilearened.today/views/github/lmstive/views.svg"/> 
  
-
-![lmstive github stats](https://github-readme-stats.vercel.app/api?username=lmstive&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lmstive&layout=compact&langs_count=16&theme=tokyonight))
+<center>
+  <table>
+    <tr>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lmstive&hide=html&layout=compact&theme=buefy" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=lmstive&theme=buefy" /></td>
+    </tr>   
+  </table>
+</center> 
